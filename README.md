@@ -34,6 +34,11 @@ Java 🐲
 🔥C#🔥
 🔥MySQl🔥
 
+🎓CONHECIMENTOS TÉCNICOS
+Java, SQL (MySQL), firebird, Web Front-end (HTML, CSS, Javascript), Linux, Shell, Git, Github, java,
+Cobol, Visual Basic for Applications, Windows,windows form, Arduino, Python Básico, Scala Básico C#, 
+Android Studio Intermediário.
+
 🏛️ English Intermediary/🏛️
 
 hobbies
